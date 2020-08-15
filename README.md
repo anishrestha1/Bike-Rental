@@ -1,1 +1,2 @@
  # BIKE RENTAL
+Bike Rental consist a document of the renting of the bike in different season and weather which can affect in the bike rental. In this, the neural network method is used for model training. At first train (self, feature and targets), forward pass train and back propagation. The regression score 0.9897, R2 score 0.821. The training loss of the model is 0.310 and validation loss: 0.503.
